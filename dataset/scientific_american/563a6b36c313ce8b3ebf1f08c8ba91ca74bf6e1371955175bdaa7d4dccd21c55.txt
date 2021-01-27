@@ -1,0 +1,114 @@
+Read Our Latest Issue "Actually, fusion research has made remarkable progress in recent years. There
+is no longer any question of its scientific feasibility: near breakeven (the
+state at which the fusion power produced equals the power consumed to
+sustain the plasma) has been demonstrated with actual fusion fuels in
+Princeton's nearly 20-year-old Tokamak
+Fusion Test Reactor (TFTR). Dramatically improved operating regimes have
+recently been discovered that may form the basis of a practical energy
+reactor. An alternate approach, known as inertial confinement fusion, has
+also made substantial progress. Inertial confinement fusion is poised to
+demonstrate better than break-even gains at the turn of the century. The
+clear key to this progress has been advances in understanding the scientific
+underpinnings of plasmas and of fusion science. In the process, several
+billion-dollar-per-year applications of plasmas have emerged. "The questions at hand now are really: Will fusion energy become practical
+and economically feasible? Is society willing to make the necessary investment
+to find out if the answer is yes? "When fusion research began in earnest 30 years ago, people simply did not
+appreciate the complexity and subtlety of the science of plasmas, and the
+concomitant depth of understanding that would be needed to make controlled
+fusion work. Scientists also vastly underestimated the engineering
+requirements and constraints--a result both of naivete and unknown scientific
+hurdles. And it is natural that the closer one gets to the goal of practical
+energy, the longer each next step takes. The experimental devices grow
+larger and more expensive as one approaches a commercially viable fusion
+reactor. "Is it worth continuing fusion development? If scientists conclude that the
+burning of fossil fuels is inducing unacceptable global climate change, then
+we have a limited number of alternatives to turn to: solar-based sources
+(photovoltaics, ocean, wind, etc.), nuclear fission and fusion. Solar-based
+sources will be increasingly important in niches but can not supply
+humanity's bulk power demands, particularly if worldwide standards of living
+continue to rise. Nuclear fission could fill the gap, but it has well-known
+disadvantages. "So the question really becomes: Can we afford to take the risk not to
+vigorously pursue fusion? One new power plant costs between $1 billion and
+$10 billion these days; a new generation of power plants would total about
+$10 trillion! Is fusion research funding of around a billion dollars per
+year for even 50 more years a reasonable gamble? It is to me." Charles C. Baker, associate director for fusion at the School of Engineering at the University
+of California, San Diego, and the International Thermonuclear Experimental
+Reactor (ITER) U.S. Home Team Leader, adds his views: "Thank you for giving me the opportunity to respond to this question. First,
+let me state that I disagree with the premise of the question. Research in
+magnetic-confinement fusion has produced excellent results. In the past 15
+years, research in the U.S. and other countries has increased by 10,000,000
+times the fusion power level produced in experiments, and we have now
+achieved production of 10 megawatts of fusion power on the Tokamak Fusion
+Test Reactor at Princeton. (A tokamak
+is a kind of magnetic donut that has proven to be a particularly stable way
+to confine the extremely hot plasma needed to achieve fusion.) This dramatic
+progress has been accomplished through investments made by the U.S., Europe,
+and Japan during the 1970s on a new, more powerful class of tokamak
+experiment. "The next step in power reactor performance levels, at which the plasma is
+capable of ignition and plasma 'burn' (wherein most of the heating energy
+comes from the fusion reactions), again requires a new, more powerful
+experimental device. The U.S. tried to proceed with a next-step burning
+plasma experiment in the 1980s, but was unable to obtain congressional
+funding. The U.S., Europe, Japan and Russia are now collaborating on the
+design and R&D work for a project called the International Thermonuclear Experimental
+Reactor. ITER is designed to achieve plasma ignition and long-pulse
+burn. It will also demonstrate the technology required for the core of a
+fusion power plant and the systems needed for extracting power from the
+device. This six-year collaboration, called the Engineering Design
+Activities, began in 1992, and exploratory discussions are now underway
+concerning cost-shared, international construction of this device. Such an
+engineering test reactor is required by all parties for progress toward
+practical fusion energy, so cost sharing for this step is mutually
+advantageous. "The combined results from a variety of tokamaks around the world have
+produced an impressive set of achievements. Neutral beams and a variety of
+radio-frequency heating methods can provide tens of megawatts of heating
+power for creating high-temperature plasmas. Experimental devices have
+produced ion temperatures as high as 45,000 electron volts and densities of
+approximately 10 particles per cubic meter, sufficient for fusion
+reactors. An important overall measure of physics performance is the 'triple
+product' of the peak ion density, the plasma energy confinement time and the
+peak ion temperature. A triple-product value of 7 x 10 electron
+volt-seconds per cubic meter is required for an ignited, deuterium-tritium
+reactor. JT-60U,
+a large Japanese tokamak, has already achieved triple products of 1.3 x
+10 electron volt-seconds per cubic meter. "The nominal fusion power of ITER is 1,500 megawatts; it represents a
+framework for a full-size fusion power reactor, though it is not designed to
+produce electricity. An extrapolation of the present knowledge of tokamaks
+indicates that commercial fusion reactors will be rather large and
+expensive. Fortunately, ongoing research programs are revealing ways to
+improve substantially the performance of tokamak reactors. These promising
+new directions include higher fusion power densities, and hence smaller
+reactors; development of 'transport barriers' in the plasma, leading to
+improved energy confinement and smaller sizes; self-driven plasma currents
+that permit steady-state operation and low recirculating power; and the
+development of advanced divertor concepts to provide particle control and
+heat removal over long reactor lifetimes. "The rate of progress in the fusion program is consistent with the level of
+resources being devoted to it. Actual funding has been much less than
+anticipated during the detailed planning drawn up in the 1970s and 1980s.
+Present levels of funding in the U.S. ($244 million in fiscal year 1996) are
+not sufficient to keep pace with the earlier plans. As a result, the U.S. is
+unfortunately passing its traditional leadership in magnetic fusion to
+Europe and Japan. "In August 1996, the U.S. Department of Energy issued a Strategic Plan for
+the Restructured U.S. Fusion Energy Sciences Program. The nation's previous
+strategy was a schedule-driven development program to prove fusion to be a
+technically and economically credible energy source, with the goal of an
+operating, demonstration power plant by about 2025. In a climate of severe
+budgetary constraints, however, that strategy became highly unrealistic. In
+an attempt to stay as close as possible to the goal-oriented schedule, the
+fusion program has concentrated almost all of its available resources on the
+tokamak concept, virtually eliminating support for alternative approaches
+and for basic plasma science. Despite impressive scientific progress, the
+program continues to receive insufficient resources. "The new strategy emphasizes an international effort aimed at advancing the
+scientific knowledge base needed for the development of an economically and
+environmentally attractive fusion energy source. To be a credible partner in
+this long-term quest, the U.S. needs a vigorous domestic program in fusion
+science and technology. At a constant level of funding, the restructured
+U.S. program will be able to focus on fusion's underlying scientific
+foundations and will enable the nation to take the lead in selected areas of
+expertise as part of the international effort to develop fusion energy. "The restructured U.S. program will strive to remain a credible partner in
+the international fusion program that includes both ITER and many smaller
+projects in all areas of fusion science and technology. Given the high
+projected cost of creating a burning physics experiment and given that the
+U.S. now funds only about one sixth of the world research effort, a strategy
+based on international collaboration on fusion energy research and
+development can be highly cost effective. Discover world-changing science. Explore our digital archive back to 1845, including articles by more than 150 Nobel Prize winners. Follow us Scientific american arabic (c) 2021 Scientific American, a Division of Springer Nature America, Inc. All Rights Reserved. Support our award-winning coverage of advances in science & technology. Already a subscriber? Subscribers get more award-winning coverage of advances in science & technology.

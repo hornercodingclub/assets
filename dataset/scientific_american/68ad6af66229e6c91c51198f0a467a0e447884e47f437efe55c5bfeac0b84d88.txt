@@ -1,0 +1,68 @@
+Read Our Latest Issue "One of the necessary conditions for a battery to be rechargeable is that the
+underlying chemical changes that occur during an electrical discharge from the
+cell must be efficiently reversed when an opposite electrical potential is
+applied across the cell. In nickel-cadmium (NiCad) batteries, for example, the
+Cd(OH) and Ni(OH) that are formed during cell discharge
+are readily converted back to the original electrode materials (Cd and NiOOH),
+when the cell is recharged. "In contrast, nonrechargeable, or primary, batteries can be based on irreversible
+chemical changes. For example, the carbon-fluoride- lithium primary batteries
+often used in cameras generate energy by converting (CF) n and Li metal to carbon
+and LiF. But the starting material at the battery' s cathode, (CF)n, is reformed when a reverse potential is applied. Instead the cell
+electrolyte decomposes, and eventually the fluoride is oxidized to form fluorine
+gas. "A reversible chemical change is not the only requirement for rechargeable
+batteries, however. To be classified as rechargeable, the battery must be able to
+undergo the reverse reaction efficiently, so that hundreds or even thousands of
+recharging cycles are possible. In addition, there must often be provisions to
+ensure that the recharging process can occur safely. "The alkaline batteries (which are generally based on the conversion of
+MnO and Zn to Mn and ZnO) offer an excellent
+example of this last point. Although the chemical changes at the electrodes can
+be reversed, until recently alkaline batteries were manufactured only to function
+as primary cells. Recharging one of these primary cells could allow the battery
+to be reused, but the possible number of recharging cycles for such a cell is
+very limited--it performs more poorly with each recharge. More important,
+recharging an old-fashioned alkaline battery is not safe. During or after a
+recharge, the battery might generate enough hydrogen gas to cause an explosion.
+In their rechargeable form, alkaline cells have undergone several changes. They
+have been redesigned to allow for a more efficient reverse reaction, they contain
+a catalyst to minimize hydrogen formation and they have safety vents that prevent
+the buildup of excess pressure during recharging." Frank McLarnon is a staff
+scientist and principal investigator in the Energy & Environment Division of
+Lawrence Berkeley National Laboratory. He clarifies why some reactions are
+irreversible: "All batteries, both rechargeable and nonrechargeable, undergo electrochemical
+reactions. When a battery is discharged, an electrochemical oxidation reaction
+proceeds at the negative electrode, and an electrochemical reduction reaction
+occurs at the positive electrode. When one attempts to recharge a battery by
+reversing the direction of electric current flow, the opposite takes place: a
+reduction reaction proceeds at the negative electrode, and an oxidation reaction
+takes place at the positive electrode. "In the case of the rechargeable battery, the electrochemical oxidation-
+reduction reactions are reversible at both electrodes. For example, when the
+battery is recharged, the overall electrochemical reduction reaction at the
+negative electrode is identical to the electrochemical oxidation reaction that
+proceeded at the negative electrode when the battery was discharged, only written
+in reverse. "In the case of the nonrechargeable battery, when one attempts to recharge the
+battery by reversing the direction of electron current flow, at least one of the
+electrochemical oxidation-reduction reactions is not reversible. When the battery
+is charged, the overall reduction reaction that proceeds at the negative
+electrode may not be the true reverse of the oxidation reaction that proceeded
+when the battery was discharged. For example, metal oxidation might be the sole
+oxidation reaction during battery discharge, whereas the formation of hydrogen (a
+highly inflammable and therefore dangerous gas) might be a significant reduction
+reaction during battery recharging. "An added requirement for a well-behaved (that is, long-lived) rechargeable
+battery is that not only must the electrochemical oxidation- reduction reactions
+be reversible, they must also return the electrode materials to their original
+physical state. For example, rough or filamentary structures may form in the
+battery after repeated charge- discharge cycles. These structures can result in
+unwanted growth of the electrode and subsequent electronic contact between the
+battery electrodes- -a short circuit. "Because of these requirements, the development of a well-behaved rechargeable
+battery is significantly more difficult than the development of a nonrechargeable
+battery. In the case of the nickel-cadmium battery, the cadmium electrode has two
+important features. First, the rate of hydrogen formation on cadmium is very slow
+(compared with that on pure zinc or pure iron, for example). Second, the
+solubility of cadmium in basic aqueous electrolyte solutions is sufficiently low
+that the cadmium does not tend to dissolve in the electrolyte and migrate to the
+positive electrode or elsewhere within the battery. At the same time, however,
+the cadmium is sufficiently soluble that its reduction can proceed easily, and it
+can form compact cadmium structures during battery recharge; the solubilities of
+most other metals are either too high or too low. These and other fundamental
+factors have allowed the successful development of the rechargeable
+nickel-cadmium battery 7 hours ago  --  Robert Z. Pearlman and SPACE.com 8 hours ago  --  Nidhi Subbaraman and Nature magazine 9 hours ago  --  Jean Chemnick and E&E News 15 hours ago  --  Avi Loeb | 15 hours ago  --  Marla Broadfoot January 25, 2021  --  Chelsea Harvey and E&E News Discover world-changing science. Explore our digital archive back to 1845, including articles by more than 150 Nobel Prize winners. Follow us Scientific american arabic (c) 2021 Scientific American, a Division of Springer Nature America, Inc. All Rights Reserved. Support our award-winning coverage of advances in science & technology. Already a subscriber? Subscribers get more award-winning coverage of advances in science & technology.

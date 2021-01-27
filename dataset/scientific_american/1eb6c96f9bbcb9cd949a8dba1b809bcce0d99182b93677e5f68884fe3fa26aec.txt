@@ -1,0 +1,22 @@
+Read Our Latest Issue To understand the Casimir Effect, one first has to understand something about a
+vacuum in space as it is viewed in quantum field theory. Far from being empty, modern physics assumes that a vacuum is full
+of fluctuating electromagnetic waves that can never be completely eliminated, like an ocean with waves that are always
+present and can never be stopped. These waves come in all possible wavelengths, and their presence implies that empty space
+contains a certain amount of energy--an energy that we can't tap, but that is always there. Now, if mirrors are placed
+facing each other in a vacuum, some of the waves will fit between them, bouncing back and forth, while others will not. As the
+two mirrors move closer to each other, the longer waves will no longer fit--the result being that the total amount of energy in
+the vacuum between the plates will be a bit less than the amount elsewhere in the vacuum. Thus, the mirrors will attract each
+other, just as two objects held together by a stretched spring will move together as the energy stored in the spring decreases. This effect, that two mirrors in a vacuum will be attracted to each other, is the Casimir Effect. It was first predicted in
+1948 by Dutch physicist Hendrick Casimir. Steve K. Lamoreaux, now at Los Alamos National Laboratory, initially measured
+the tiny force in 1996. It is generally true that the amount of energy in a piece of vacuum can be altered by material around
+it, and the term "Casimir Effect" is also used in this broader context. If the mirrors move rapidly, some of the vacuum waves
+can become real waves. Julian Schwinger and many others have suggested that this "dynamical Casimir effect" may be
+responsible for the mysterious phenomenon known as sonoluminescence. One of the most interesting aspects of vacuum
+energy (with or without mirrors) is that, calculated in quantum field theory, it is infinite! To some, this finding implies that the
+vacuum of space could be an enormous source of energy--called "zero point
+energy." But the finding also raises a physical problem: there's nothing to stop arbitrarily small waves from fitting
+between two mirrors, and there is an infinite number of these wavelengths. The mathematical solution is to temporarily do
+the calculation for a finite number of waves for two different separations of the mirrors, find the associated difference in
+vacuum energies and then argue that the difference remains finite as one allows the number of wavelengths to go to infinity. Although this trick works, and gives answers in agreement with experiment, the problem of an infinite vacuum energy is
+a serious one. Einstein's theory of gravitation implies that this energy must produce an infinite gravitational curvature of
+spacetime--something we most definitely do not observe. The resolution of this problem is still an open research question. 6 hours ago  --  Robert Z. Pearlman and SPACE.com 7 hours ago  --  Nidhi Subbaraman and Nature magazine 8 hours ago  --  Jean Chemnick and E&E News 14 hours ago  --  Avi Loeb | 15 hours ago  --  Marla Broadfoot January 25, 2021  --  Chelsea Harvey and E&E News Discover world-changing science. Explore our digital archive back to 1845, including articles by more than 150 Nobel Prize winners. Follow us Scientific american arabic (c) 2021 Scientific American, a Division of Springer Nature America, Inc. All Rights Reserved. Support our award-winning coverage of advances in science & technology. Already a subscriber? Subscribers get more award-winning coverage of advances in science & technology.

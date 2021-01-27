@@ -1,0 +1,88 @@
+Read Our Latest Issue "When certain elementary particles move through a magnetic
+field, they are deflected in a manner that suggests they have
+the properties of little magnets. In the classical world, a
+charged, spinning object has magnetic properties that are very
+much like those exhibited by these elementary particles.
+Physicists love analogies, so they described the elementary
+particles too in terms of their 'spin.' "Unfortunately, the analogy breaks down, and we have come to
+realize that it is misleading to conjure up an image of the
+electron as a small spinning object. Instead we have learned
+simply to accept the observed fact that the electron is
+deflected by magnetic fields. If one insists on the image of a
+spinning object, then real paradoxes arise; unlike a tossed
+softball, for instance, the spin of an electron never changes,
+and it has only two possible orientations. In addition, the very
+notion that electrons and protons are solid 'objects' that can
+'rotate' in space is itself difficult to sustain, given what we
+know about the rules of quantum mechanics. The term 'spin,'
+however, still remains." Kurt T. Bachmann
+of Birmingham-Southern College adds some historical background
+and other details: "Starting in the 1920s, Otto Stern and Walther Gerlach of the
+University of Hamburg in Germany conducted a series of important
+atomic beam experiments. Knowing that all moving charges produce
+magnetic fields, they proposed to measure the magnetic fields
+produced by the electrons orbiting nuclei in atoms. Much to
+their surprise, however, the two physicists found that electrons
+themselves act as if they are spinning very rapidly, producing
+tiny magnetic fields independent of those from their orbital
+motions. Soon the terminology 'spin' was used to describe this
+apparent rotation of subatomic particles. "Spin is a bizarre physical quantity. It is analogous to the
+spin of a planet in that it gives a particle angular momentum
+and a tiny magnetic field called a magnetic moment. Based on the
+known sizes of subatomic particles, however, the surfaces of
+charged particles would have to be moving faster than the speed
+of light in order to produce the measured magnetic moments.
+Furthermore, spin is quantized, meaning that only certain
+discrete spins are allowed. This situation creates all sorts of
+complications that make spin one of the more challenging aspects
+of quantum mechanics. "In a broader sense, spin is an essential property influencing
+the ordering of electrons and nuclei in atoms and molecules,
+giving it great physical significance in chemistry and
+solid-state physics. Spin is likewise an essential consideration
+in all interactions among subatomic particles, whether in
+high-energy particle beams, low-temperature fluids or the
+tenuous flow of particles from the sun known as the solar wind.
+Indeed, many if not most physical processes, ranging from the
+smallest nuclear scales to the largest astrophysical distances,
+depend greatly on interactions of subatomic particles and the
+spins of those particles." Victor J.
+Stenger, professor of physics at the University of Hawaii at
+Manoa, offers another, more technical perspective: "Spin is the total angular momentum, or angular
+momentum, of a body. The spins of elementary particles are
+analogous to the spins of macroscopic bodies. In fact, the spin
+of a planet is the sum of the spins and the orbital angular
+momenta of all its elementary particles. So are the spins of
+other composite objects such as atoms, atomic nuclei and protons
+(which are made of quarks). "In classical physics, angular momentum is a continuous
+variable. In quantum mechanics, angular momenta are discrete,
+quantized in units of Planck's constant divided by 4 pi. Niels
+Bohr proposed that angular momentum is quantized in 1913 and
+used this to explain the line spectrum of hydrogen. "At our current level of understanding, the elementary particles
+are quarks, leptons (such as the electron) and bosons (such as
+the photon). These particles are all imagined as pointlike, so
+you might wonder how they can have spins. A simple answer might
+be, perhaps they are composite, too. But deep theoretical
+reasons having to do with the rotational symmetry of nature lead
+to the existence of spins for elementary objects and to their
+quantization. Of particular significance is the difference
+between fermions, particles that, like the electron, have
+half-integer spins (half-integer multiples of Planck's constant
+divided by 2 pi), and bosons, particles that have integer spins.
+Fermions obey the Pauli exclusion principle, which states that
+two identical fermions cannot exist in the same state; without
+the Pauli exclusion principle, chemistry would have no Periodic
+Table. Bosons, on the other hand, tend to congregate in the same
+state, leading to phenomena such as superconductivity and
+Bose-Einstein condensation. "Spin has served as the prototype for other, even more abstract
+notions that seem to have the mathematical properties of angular
+momentum but do not have a simple classical analogue. For
+example, isotopic spin is used in nuclear physics to represent
+the two states of a 'nucleon,' the proton and neutron.
+Similarly, quarks are paired as isospin 'up' and 'down,' which
+are the names given to the two quarks that make up ordinary
+matter. The rotational symmetry of space and time is generalized
+to include symmetries in more abstract 'inner' dimensions, with
+the result that much of the complex structure of the microworld
+can be seen as resulting from symmetry breaking, connecting
+profoundly to ideas describing the spontaneous formation of
+structure in the macroworld. 6 hours ago  --  Robert Z. Pearlman and SPACE.com 7 hours ago  --  Nidhi Subbaraman and Nature magazine 8 hours ago  --  Jean Chemnick and E&E News 14 hours ago  --  Avi Loeb | 15 hours ago  --  Marla Broadfoot January 25, 2021  --  Chelsea Harvey and E&E News Discover world-changing science. Explore our digital archive back to 1845, including articles by more than 150 Nobel Prize winners. Follow us Scientific american arabic (c) 2021 Scientific American, a Division of Springer Nature America, Inc. All Rights Reserved. Support our award-winning coverage of advances in science & technology. Already a subscriber? Subscribers get more award-winning coverage of advances in science & technology.

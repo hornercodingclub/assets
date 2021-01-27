@@ -1,0 +1,71 @@
+Read Our Latest Issue Wormholes are solutions to the
+Einstein field equations for gravity that act as "tunnels," connecting points in space-time in such a way that the trip between the points through the
+wormhole could take much less time than the trip through normal space. The first wormhole-like solutions were found by studying the
+mathematical solution for black holes. There it was found that the solution lent itself to an extension whose geometric interpretation was that of copies of the black hole geometry connected by a "throat" (known as an Einstein-Rosen bridge). The throat is a dynamical object
+attached to the two holes that pinches off extremely quickly into a narrow link between them. Theorists have since found other wormhole
+solutions; these solutions connect various types of geometry on either mouth of the wormhole. One amazing aspect of wormholes is that because
+they can behave as "shortcuts" in space-time, they must allow for backwards time travel! This property goes back to the usual statement that if one
+could travel faster than light, that would imply that we could communicate with the past. Needless to say, this possibility is a disturbing one;
+time travel would allow for a variety of paradoxical situations, such as going back into the past and killing your grandfather before your father
+was born (the grandfather paradox). The question now arises of whether it would be possible to actually construct a wormhole and move it around
+in such a way that it would become a usable time machine. Wormhole geometries are inherently unstable. The only material that can be used
+to stabilize them against pinching off is material having negative energy density, at least in some reference frame. No classical matter can do this,
+but it is possible that quantum fluctuations in various fields might be able to. Stephen Hawking conjectured that while wormholes might be
+created, they cannot be used for time travel; even with exotic matter stabilizing the wormhole against its own instabilities, he argued, inserting a
+particle into it will destabilize it quickly enough to prevent its use. This is known as the Chronology Protection Conjecture. Wormholes are
+great theoretical fun, and are seemingly valid solutions of the Einstein equations. There is, however, experimental evidence for them.
+This should not stop any budding science-fiction writers from using them as needed!  A wormhole is
+a tunnel-like connection through space-time, much like the real tunnels bored by worms in a (Newtonian) apple. At present, space-time wormholes
+are only theoretical constructs derived from general relativity; there is no experimental evidence for their existence. Nevertheless, theoretical
+physicists study the mathematical properties of space-times containing wormholes because of their unusual properties. Study of such strange
+geometries can help better distinguish the boundaries of behavior permitted in the theory of general relativity, and also possibly provide insights
+into effects related to quantum gravity. A wormhole has two mouths connected by a "throat," and provides a path that a traveler could follow
+to a distant point. The path through the wormhole is topologically distinct from other routes one could follow to the same destination. What is
+meant by topologically distinct? If an ant wished to crawl from one side of an apple to another, there are many possible paths on the surface
+connecting the starting point to the destination. These paths are not distinct topologically: a piece of elastic string fixed at the starting and ending
+points, and lying along one such path, could be slid and stretched over the surface to lie along any other such path. Now imagine that the ant
+instead crawls a wormhole in the apple. A piece of string passing through the wormhole cannot be smoothly moved in such a way
+as to lie along one of the surface paths (or through another wormhole with the same end points but different route). For the purposes of
+science fiction, it is usually assumed that a wormhole in space-time represents a shortcut--that by traveling a small distance through the wormhole
+tunnel, you might end up at a destination which could be light-years away through conventional space. In terms of the theoretical physics of
+wormholes, however, there is no particular reason why the distance must be shorter; the wormhole might actually be the longer route (analogous
+to a long, complicated, twisting hole that a worm might leave in an apple, where the entrance and exit mouths might be quite close to each other on
+the surface). Wormholes can exist within the classical black hole solutions of the Einstein equations. These wormholes are useless for travel,
+however, as they collapse before any spaceship (or even a ray of light) could pass through them. In addition, the black holes formed by a collapsing
+star have no associated wormhole at all. "Traversable" wormholes exist in wormhole space-times in which the wormhole is held open at least
+long enough for a signal or object (spaceship) to pass through. Interest in such wormhole solutions in general relativity was stimulated when
+Michael Morris and Kip Thorne of the California Institute of Technology examined the general properties necessary for a wormhole to remain
+open. They found that if a wormhole is static and unchanging in time, then it must contain "exotic" matter. Such matter has negative energy
+density and a large negative pressure (or tension)--larger in magnitude than the energy density. Such matter is called "exotic" because it so little
+resembles all forms of known matter. All the forms of matter familiar to physicists and chemists have positive energy density (or, equivalently,
+positive mass), and pressures or tensions that are always less than the energy density in magnitude. In a stretched rubber band, for example, the
+density is 10 , or 100 million million times, greater than the tension. The one possible source of "exotic" matter known to theoretical
+physics lies in the behavior of certain vacuum states in quantum field theory. This possibility is the focus of most current theoretical research
+involving wormholes. Such research has shown that it appears difficult to use quantum effects to open a wormhole much larger than the
+characteristic length associated with quantum gravity, known as the Planck length (about 10 centimeter). If the wormhole were
+not much larger than this, then not only would it be useless for transporting spaceships, but quantum gravity would be needed to describe the hole. Analyses of the behavior of quantized fields in wormhole space-times by L.H. Ford and T.A. Roman, Brett E. Taylor, William A. Hiscock and
+Paul R. Anderson and others have shown that it is unlikely that quantum field effects could hold open a macroscopic wormhole. On the other hand,
+David Hochberg, A.D. Popov and Sergey V. Sushkov have found a wormhole solution using approximate expressions for a quantized scalar field,
+but had to make a number of assumptions concerning the (unknown) parameters of quantum gravity in their work. While at present it appears
+unlikely that nature allows the existence of macroscopic wormholes, there is still sufficient uncertainty in the arguments to allow theoretical
+physicists to continue studying this odd and intriguing aspect of space-time.   Wormholes are hypothetical entities that show up in theoretical analyses of Einstein's theory of gravity (general relativity).
+Nobody has yet seen a wormhole, nor are we certain that they exist, but they seem to show up so easily when we do calculations that many
+physicists suspect that they might actually be out there in the real universe. There are two main types of wormhole of interest to physicists:
+Lorentzian wormholes (general relativity) and Euclidean wormholes (particle physics). Lorentzian wormholes are essentially short-cuts
+through space and time. They are mainly studied by experts in Einstein gravity, and if they exist in real life would be more-or-less similar to the
+wormhole on . (But remember, the show is just entertainment, so don't try to extract detailed physics from DS9;
+at best it will give you a vague general idea of what is going on.) The good news about Lorentzian wormholes is that, after about ten years of
+hard work, we cannot prove that they do not exist. The bad news is that they are very strange objects: If they exist at all they need large amounts of
+negative mass to hold them open and stop them from collapsing. (Negative mass is not anti-matter, it's a region where the energy of the universe
+is less than that of ordinary vacuum---definitely weird stuff.) We can get small amounts of negative energy in the laboratory (the Casimir effect),
+but getting the large amounts needed to hold a decent size Lorentzian wormhole open looks to be hopeless with current technologies. (And there
+may be deep issues of principle preventing us from collecting a lot of negative energy in one place.) If Lorentzian wormholes do exist, then it
+seems classically to be relatively easy to turn them into time machines. This embarrassing feature has led Stephen Hawking to promulgate his
+Chronology Protection Conjecture. According to this conjecture, quantum effects will conspire to effectively prevent time travel even when it looks
+like classical physics might allow time travel to occur. Euclidean wormholes are even stranger: they live in "imaginary time" and are
+intrinsically virtual quantum mechanical processes. These Euclidean wormholes are of interest mainly to the particle physicists (quantum field
+theorists). You cannot give them a nice classical interpretation in terms of a well-behaved classical gravitational field, and unfortunately have to
+know a lot of quantum physics to appreciate even their basic properties. A good popular level description of Lorentzian wormholes can be
+found in the book by Kip. S. Thorne (Norton, New York, 1994). The BBC
+has a documentary in the Horizon series: The Time Lords, Judith Bunting, December 2, 1996. If you know some differential geometry, some
+general relativity and some quantum field theory (not for the faint of heart), you might want to take a look at by Matt Visser (AIP Press, New York, 1995). 6 hours ago  --  Robert Z. Pearlman and SPACE.com 7 hours ago  --  Nidhi Subbaraman and Nature magazine 8 hours ago  --  Jean Chemnick and E&E News 14 hours ago  --  Avi Loeb | 15 hours ago  --  Marla Broadfoot January 25, 2021  --  Chelsea Harvey and E&E News Discover world-changing science. Explore our digital archive back to 1845, including articles by more than 150 Nobel Prize winners. Follow us Scientific american arabic (c) 2021 Scientific American, a Division of Springer Nature America, Inc. All Rights Reserved. Support our award-winning coverage of advances in science & technology. Already a subscriber? Subscribers get more award-winning coverage of advances in science & technology.

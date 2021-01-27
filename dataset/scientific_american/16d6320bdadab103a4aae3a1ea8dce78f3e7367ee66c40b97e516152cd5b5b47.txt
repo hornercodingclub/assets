@@ -1,0 +1,96 @@
+Read Our Latest Issue Online traffic jams spur cries of 
+doom--and plans for Internet II But for more than a decade, congestion has hung over the Net like
+the sword over Damocles, poised to sever its connections. Last-minute
+additions of more and bigger pipes have always averted crisis. This
+time, however, the problems run deeper, and although technical
+solutions are in hand, they will exact a price--and not just in the
+figurative sense. The resulting economic tremors may well topple some
+of the Web's shakier business plans, but they should also reshape the
+Internet into a more efficient and reliable medium. The source of doomsayers' angst is the Net's geometric growth:
+by most measurements, it doubles in size every nine months or so. Such
+rapid expansion creates three major threats to the system. The first
+jeopardizes its ability to connect any two computers on the network.
+The Internet does so in much the same way as an automated postal
+system: computers wrap data into packages, stamp the packets with
+addresses and hand them to automated postal clerks (called routers) to
+deliver. But the Internet's numerical address system has nothing to do with
+location. The Net equivalent of 10 Main St. may be in Maine, whereas
+11 Main St. is in Ohio. So each automated clerk has to look up
+delivery instructions in a table for every packet it handles. Because
+packets often pass through 10 or more routers before reaching their
+destination, the time spent poring over large tables can jam up
+traffic considerably. More alarming, routers' tables are
+growing twice as fast as their ability to search them. Within two
+years, that could leave the Net's postmasters with just two unpleasant
+options: either toss some packets into the trash or refuse to add new
+addresses (especially those for competing network companies) to their
+tables. Two recent innovations will postpone that Faustian choice. The
+first was a stopgap measure: the agency that hands out Net addresses
+has been pressuring network managers to organize addresses into
+sensible groups--much like zip codes. That strategy bought enough time
+to start using the second improvement, a scheme called tag switching, which was introduced in September by Cisco, the
+company that built most of the routers on the Internet. Here the first
+clerk to examine a package writes down explicit instructions for all
+the other clerks that will handle it, saving them the time and trouble
+of consulting their tables. The second threat to the Net is that it may 
+run out of numerical addresses altogether, bringing its geometric growth to a
+crashing halt. Although the current addressing format theoretically
+supports about 4.3 billion computers, large swaths of the numbers have
+been given away but never used. By recycling old addresses and dipping
+into reserves, the existing supply can probably be stretched into the
+next decade--long enough to switch to new software, playfully named "Internet
+Protocol, the Next Generation." IPng will allow every human on the
+planet to have something like 100 network devices. That should suffice
+for a while. The final danger to the stability of the burgeoning Internet is
+that congestion will slow data to a crawl, ruining plans for
+fancy interactive games, cheap long-distance calls and grainy video on
+demand. Because bottlenecks often occur at the switches deep inside
+the Internet cloud rather than at the periphery where workers and
+consumers connect, the problem will only grow worse as more people buy
+PCs and fast modems. Slick routing tricks such as tag switching will
+help for a time. And many of the companies who own parts of the
+Internet's backbone are scrambling to expand it;
+MCI tripled the capacity of its
+segment this past summer. But demand will outstrip supply as long as
+Internet access remains so inexpensive; MCI has also seen the flow
+over its network swell 56-fold in less than two years. As Microsoft Network, America Online and Prodigy get ready to join
+companies offering unbeatable, all-you-can-surf pricing, some schools
+and corporations with high hopes for the Internet are preparing to jump ship. In October a
+group of universities announced plans to build Internet II, a
+high-speed national network linking perhaps 50 research institutions. The private network would connect to the Internet at "GigaPOPs"
+scattered throughout the country. (A POP, or point of presence, is the
+Internet equivalent of a post office.) But it would close its gates to
+outside users in order to preserve enough bandwidth to work on
+high-tech projects--such as telemedicine, distance learning,
+scientific visualization and broadcast video of undergrads' dorm
+parties--without the hassle of Internet congestion. Companies such as
+Chrysler are rumored to be
+toying with similar options to link factories with dealers and
+material suppliers. (Private "intranets" exist, but they generally
+link their far-flung locations using the Internet and are thus at the
+mercy of Net-wide congestion.) Internet II will not ease the pressure on Internet I directly by
+more than a few percent, but it may have a lasting indirect influence.
+University officials involved say they want to try out new pricing
+policies and special delivery software designed to help guarantee
+rapid responses and clear channels to those willing to pay for them. These good ideas have been around for years. One, called resource
+reservation protocol, or RSVP, is even
+scheduled to appear this fall in Cisco routers and Intel videoconferencing
+software. The hang-up has been billing: if the urgent data are
+delivered partly by MCI, partly by Sprint and partly by Pacific Bell, all three need to
+agree on systems to split the fees. Internet II, because it would have
+just one backbone and one bill to pay, could test whether RSVP and
+other priority schemes work at large scales, while punting on the
+billing issue. In the meantime, some networking companies, chafing at the thin
+margins of their commodity business, will soon start offering
+higher-quality Internet access for higher prices. No one knows how the
+market will react when, inevitably, basic services slow as premium
+customers are ushered to the head of the queue. If, as some insiders
+predict, the companies that run the Internet's backbone soon begin
+charging those on its limbs according to the amount of data they send
+or receive, they will have little choice but to pass the costs along.
+Forced to decide what is worth paying for, many customers will first
+tune out images--thus destroying the fledging Internet advertising
+business--and will then search more, browse less. Although this may
+rob the Net of much of its charm, it would almost certainly prod it
+toward greater utility. W. Wayt Gibbs is a contributing editor for Scientific American based 
+in Seattle. He also works as a scientific editor at Intellectual Ventures. Credit: Nick Higgins 6 hours ago  --  Robert Z. Pearlman and SPACE.com 7 hours ago  --  Nidhi Subbaraman and Nature magazine 8 hours ago  --  Jean Chemnick and E&E News 14 hours ago  --  Avi Loeb | 15 hours ago  --  Marla Broadfoot January 25, 2021  --  Chelsea Harvey and E&E News Discover world-changing science. Explore our digital archive back to 1845, including articles by more than 150 Nobel Prize winners. Follow us Scientific american arabic (c) 2021 Scientific American, a Division of Springer Nature America, Inc. All Rights Reserved. Support our award-winning coverage of advances in science & technology. Already a subscriber? Subscribers get more award-winning coverage of advances in science & technology.

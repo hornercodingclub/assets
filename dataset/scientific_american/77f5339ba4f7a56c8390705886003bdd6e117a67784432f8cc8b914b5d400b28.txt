@@ -1,0 +1,42 @@
+Read Our Latest Issue "Briefly, tachyons are theoretically postulated particles that travel faster
+than light and have 'imaginary' masses. imaginary mass is a
+bizarre theoretical concept that comes from taking the square root of a negative
+number; in this case, it roughly means that a particle's mass is only physically
+meaningful at speeds greater than light.] "The name 'tachyon' (from the Greek
+'tachys,' meaning swift) was coined by the late Gerald Feinberg of Columbia
+University. Tachyons have never been found in experiments as real particles
+traveling through the vacuum, but we predict theoretically that tachyon-like
+objects exist as faster-than-light 'quasiparticles' moving through laser-like
+media. (That is, they exist as particle-like excitations, similar to other
+quasiparticles called phonons and polaritons that are found in solids.
+'Laser-like media' is a technical term referring to those media that have
+inverted atomic populations, the conditions prevailing inside a laser.) "We are
+beginning an experiment at Berkeley to detect tachyon-like quasiparticles. There
+are strong scientific reasons to believe that such quasiparticles really exist,
+because Maxwell's equations, when coupled to inverted atomic media, lead
+inexorably to tachyon-like solutions. "Quantum optical effects can produce a different kind of 'faster than light'
+effect (see "Faster than light?" by R. Y. Chiao, P. G. Kwiat, and A. M. Steinberg
+in , August 1993). There are actually two different
+kinds of 'faster-than-light' effects that we have found in quantum optics
+experiments. (The tachyon-like quasiparticle in inverted media described above is
+yet a third kind of faster-than-light effect.) "First, we have discovered that photons which tunnel through a quantum barrier
+can apparently travel faster than light (see "Measurement of the Single-Photon
+Tunneling Time" by A. M. Steinberg, P. G. Kwiat, and R. Y. Chiao, , Vol. 71, page 708; 1993). Because of the uncertainty
+principle, the photon has a small but very real chance of appearing suddenly on
+the far side of the barrier, through a quantum effect (the 'tunnel effect') which
+would seem impossible according to classical physics. The tunnel effect is so
+fast that it seems to occur faster than light. "Second, we have found an effect related to the famous Einstein-Podolsky-Rosen
+phenomenon, in which two distantly separated photons can apparently influence one
+anothers' behaviors at two distantly separated detectors (see "High-Visibility
+Interference in a Bell-Inequality Experiment for Energy and Time," by P. G.
+Kwiat, A. M. Steinberg, and R. Y. Chiao, , Vol. 47, page
+R2472; 1993). This effect was first predicted theoretically by Prof. J. D.
+Franson of Johns Hopkins University. We have found experimentally that twin
+photons emitted from a common source (a down-conversion crystal) behave in a
+correlated fashion when they arrive at two distant interferometers. This
+phenomenon can be described as a 'faster-than-light influence' of one photon upon
+its twin. Because of the intrinsic randomness of quantum phenomena, however, one
+cannot control whether a given photon tunnels or not, nor can one control whether
+a given photon is transmitted or not at the final beam splitter. Hence it is
+impossible to send true signals in faster-than-light communications. "I refer interested readers to our paper 'Tachyonlike Excitations in Inverted
+Two-Level Media' by R. Y. Chiao, A. E. Kozhekin, and G. Kurizki, , Vol. 77, page 1254; 1996, and references therein. 6 hours ago  --  Robert Z. Pearlman and SPACE.com 7 hours ago  --  Nidhi Subbaraman and Nature magazine 8 hours ago  --  Jean Chemnick and E&E News 14 hours ago  --  Avi Loeb | 15 hours ago  --  Marla Broadfoot January 25, 2021  --  Chelsea Harvey and E&E News Discover world-changing science. Explore our digital archive back to 1845, including articles by more than 150 Nobel Prize winners. Follow us Scientific american arabic (c) 2021 Scientific American, a Division of Springer Nature America, Inc. All Rights Reserved. Support our award-winning coverage of advances in science & technology. Already a subscriber? Subscribers get more award-winning coverage of advances in science & technology.

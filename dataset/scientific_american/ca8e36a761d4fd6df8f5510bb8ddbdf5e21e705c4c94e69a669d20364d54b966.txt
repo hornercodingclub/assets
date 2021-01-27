@@ -1,0 +1,80 @@
+Read Our Latest Issue Andrew Trupin, assistant professor of physics at Vassar college, responds: "Physical law as we know it precludes the shutting off of the gravitational interaction by any means, magnetic or otherwise. One can produce an equal and opposite magnetic force to counterbalance the pull of gravity, but gravity itself is interpreted as a curvature of space and time by mass. As such, gravity is not a force, but a change in the local geometry of space-time. Hence, if you have mass or energy (the equivalent of matter, according to the formula E=mc ), then you have the space-time curvature. There is no way to shut it off. "To evaluate this specific antigravity claim, one would have to know whether the researchers have just counterbalanced the gravitational attraction with a magnetic force, or whether the researchers think that they have somehow nullified a gravitational field in the way that, for example, an electric field would be nullified by a Faraday cage. I would be extremely skeptical of the latter assertion, but I would really need to have a copy of the research paper to respond in detail." Lawrence A. Crum of the Applied Physics Laboratory
+at the University of Washington expands on the above response: We recently published a brief response to
+this question. Given the great reader interest in this controversial topic, we
+are now providing some additional information. Steinn Sigurdsson of the Institute of Astronomy at Cambridge University addresses
+the general feasibility of counteracting the pull of gravity: "The antigravity devices of science fiction are wonders of the human imagination,
+but reality makes life more difficult. "One can imagine three ways of countering gravity. First, something can provide a
+force opposing that of gravity. Such forces are known--for instance, objects can
+be levitated using magnetic or electrostatic repulsion. A second way would be to
+find a new kind of force, unrelated to either the electromagnetic or nuclear
+forces known to science, which would provide repulsion on human scales. Searches
+for such a force have proved fruitless, and the properties of any such
+undiscovered forces are severely constrained by the many negative experiments. "Third, one can try to turn gravity against itself--that is, one can look for
+nonintuitive effects in relativity theory or the little understood quantum theory
+of gravity, which most physicists think may be formulated. Rather surprisingly,
+it turns out that relativity theory allows for the existence of repulsive forces
+related to gravity. A curious solution exists in which infinite 'walls' of high
+density are postulated, existing under very high surface tension. Such walls
+would repel all matter with a constant acceleration. Some theorists have
+conjectured that finite pieces of such walls could exist in the real universe and
+provide local repulsion. Such objects have been invoked to explain some puzzles
+of cosmology, although most physicists consider conventional explanations to be
+more likely. "In a related vein, a universal repulsive 'force' is also postulated to have
+existed during the era of inflation--an episode of extremely rapid expansion that
+many modern cosmological theories propose occurred immediately after the big
+bang. In this view, the early universe swelled enormously because of a repulsive
+'force' pervading the vacuum. This force would have faded away rapidly, leaving
+behind the universe as we see it. The inflationary hypothesis will be tested in
+the near future by looking for the subtle signatures it would leave in the cosmic
+microwave background. "There are other exotic settings--near the event horizons of certain black
+holes--where the coupling of spin and electricity can generate strong repulsive
+forces. Unfortunately, all such known situations require much more extreme
+physical conditions than the modest temperatures and magnetic fields of the
+spinning, superconducting disk experiment. The effect reported in that experiment
+is most likely caused by small, unaccounted for normal effects, not any form of
+antigravity. "In summary, simple shielding of gravity is not possible. Not only would it
+violate the laws of gravity, it would provide a perpetual motion machine, thereby
+violating the principle of conservation of energy. It is conceivable that there
+are quantum-gravitational effects that would permit a repulsive gravitylike
+force, but most such speculations require a strange and highly speculative
+material whose existence would violate current understandings about the
+properties of matter. It appears that to counter gravity we will have to continue
+doing it the hard way and use the other forces at our disposal, namely, the
+electromagnetic forces that provide the pressure on a bird's wing and on the
+soles of our feet." Andrew Trupin and
+Morton Tavel of Vassar College more specifically address the alleged
+antigravity device that has been the source of so much speculation: "Recent interest in a paper on the subject of antigravity by Eugene Podkletnov
+and Petri Vuorinen, which has since been withdrawn, raises questions about the
+process of measurement, control of the variables that go into an experiment, and
+the subsequent dissemination of the effects of these variables in the reported
+results. The experiment involves a spinning superconducting ring supported in a
+magnetic field. Objects placed above the ring reportedly lost up to 2 percent of
+their weight, independently of their composition. "The Theory of General Relativity (which has been subjected to rigorous tests)
+holds that gravity is a curvature of space-time caused by the presence of mass
+(or energy). This curvature cannot be 'turned off' by imposing additional
+magnetic and electrical forces, such as those present in a superconductivity
+experiment. Even if one assumes that some poorly known quantum effects could
+affect the amount of magnetic flux contained in the superconducting ring, or in
+materials placed above the ring, the fact that mass and energy curves the space
+around them still holds true. "It is conceivable that an equal and opposite force, of magnetic origin, is
+induced in the material above the ring, and this force partially offsets the
+earth's pull on that material. Also conceivable are measurement error or poor
+control of the many variables in the experiment. Were the materials pure? Was the
+balancing instrument affected by the magnetic field below it? How well was the
+magnetic field in the material above the disk measured? Did the spinning disk
+(which turned at 5,000 revolutions per minute) cause any vortices of air or gas
+that may have provided the buoyant force? Without detailed knowledge of the
+experiment, one cannot draw definite conclusions about the claim of antigravity. "The report of the experiment is reminiscent of the initial reports of cold
+fusion, which excited the scientific community for a brief time, as various
+quantum effects were postulated to be responsible for the remarkable effect. It
+turned out that one problem was that the original experimenters failed to stir
+their calorimeter thoroughly. And remember the Fifth Force? A book entitled by Allan Franklin [American Institute of
+Physics, 1993], makes interesting reading about the types of issues that bear on
+the quality and repeatability of experiment, as well as the interpretation of
+data. "The problem with disseminating the results of experiments in popular media is
+that in the simplification of the results, the details are lost. Unfortunately,
+'the Devil is in the details,' and the conclusions of the experiment rest on
+these details. The lay public must rely on reports that refer to peer review of
+the experiment and original sources. In the antigravity experiments, no such peer
+review appears to be available, and therefore the conclusions, at this time,
+cannot be supported." 6 hours ago  --  Robert Z. Pearlman and SPACE.com 7 hours ago  --  Nidhi Subbaraman and Nature magazine 8 hours ago  --  Jean Chemnick and E&E News 14 hours ago  --  Avi Loeb | 15 hours ago  --  Marla Broadfoot January 25, 2021  --  Chelsea Harvey and E&E News Discover world-changing science. Explore our digital archive back to 1845, including articles by more than 150 Nobel Prize winners. Follow us Scientific american arabic (c) 2021 Scientific American, a Division of Springer Nature America, Inc. All Rights Reserved. Support our award-winning coverage of advances in science & technology. Already a subscriber? Subscribers get more award-winning coverage of advances in science & technology.

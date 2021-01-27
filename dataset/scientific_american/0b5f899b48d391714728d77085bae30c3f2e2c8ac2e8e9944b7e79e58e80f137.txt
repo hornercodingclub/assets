@@ -1,0 +1,56 @@
+Read Our Latest Issue We
+know from magnetic records locked in rocks that the Earth's magnetic field has reversed many times in the
+past. We don't really know why but we have some theories that are being borne out in mathematical models. We also know that the magnetic field of the sun reverses as well-- every 11 years, whereas the Earth's
+reverses irregularly. The last geomagnetic reversal for Earth was about 780,000 years ago. The historic
+reversal rate for Earth seems to be once every few hundred thousand years, but it has varied widely; on at
+least two occasions, the field has maintained one polarity for tens of millions of years. Thus, the only two magnetic fields for which we have any
+significant historical record--those of the Earth and the sun--are bistable. They spend most of the time in a
+stable state with the magnetic field aligned roughly with the spin axis. The form of the stable geomagnetic
+field is like that of a bar magnet at the center of the Earth. It is what is called a dipole field--with a north and
+south pole. But occasionally this dipole field switches polarity--north and south reverse--and this process
+seems to take a few thousand years. The Earth's field, like the sun's, is produced by dynamo action, which
+involves two processes. The first is the creation of new magnetic fields from the ambient geomagnetic field. 
+This "field regeneration" takes place because magnetic field lines are trapped in good electrical conductors,
+such as the molten iron of the Earth's outer core. As Michael Faraday demonstrated, movement of a field line
+is impeded by an electrical current flowing to oppose that change. Because the molten iron in the core is a
+good electrical conductor, the field is trapped in the fluid--the frozen field effect. The field is carried along
+with the fluid as it moves in response to the forces imposed upon it. As the core moves, the field lines are
+stretched and twisted, and a new magnetic field is created. The
+balance between these two processes determines the evolution of the magnetic field--namely, whether the
+field decays away or is regenerated. On the large scale of stars and planets, the field lines are caught up in the
+fluid motion and distorted. They then generate a new magnetic field before they diffuse away. The
+geomagnetic field varies continuously. The decay time for the main dipole part of the geomagnetic field,
+whose constancy and simple geometry permits navigation by magnetic compasses, is probably in the
+neighborhood of 15,000 years. The largest part of this variation involves smaller features in the non-dipole
+field, which have smaller time constants and more complicated geometries. The variation must presumably
+arise from small changes in either of the two processes which give the dynamo action, or both. So the
+rare field reversals are most likely caused by larger changes in the flow in the outer core, or in the way in
+which the field lines are wound into the flow by diffusion. What causes such major changes is not known.
+Indeed, it may be that such fluctuations are simply extreme examples of the continuum of fluctuations in the
+dynamo processes--an El Nino in the weather of the outer core. Several years ago, Gary A. Glatzmier of
+Los Alamos National Laboratory and Paul H. Roberts of the University of California, Los Angeles achieved a
+remarkable breakthrough in the mathematical modeling of the geomagnetic field. They solved the equations
+of electromagnetism and magnetohydrodynamics for the outer core and thereby obtained a computer
+simulation of the geomagnetic field. The simulation yielded relatively long periods, when the field was
+roughly aligned with the rotation axis, that were separated by a rapid flipping of the poles. During this
+simulated reversal, the non-dipole field became dominant. Attempts are now underway to determine the
+morphology of the transitional fields during reversals. And it is hoped that these results will inspire still more
+realistic models and a better understanding of the working of the geodynamo.  The first dynamically-consistent,
+three-dimensional computer simulation of the geodynamo (the mechanism in the Earth's fluid outer core that
+generates and maintains the geomagnetic field) was accomplished and published by Paul H. Roberts of the
+University of California at Los Angeles and myself in 1995. We programmed supercomputers to solve the
+large set of nonlinear equations that describe the physics of the fluid motions and magnetic field generation in
+the Earth's core. The simulated geomagnetic field, which now spans the equivalent of over 300,000 years, has an intensity,
+a dipole-dominated structure and a westward drift at the surface that are all similar to the Earth's real field.
+Our model predicted that the solid inner core, being magnetically coupled to the eastward fluid flow above it,
+should rotate slightly faster than the surface of the Earth. This prediction was recently supported by studies of
+seismic waves passing through the core. In addition, the computer model has produced three
+spontaneous reversals of the geomagnetic field during the 300,000-year simulation. So now, for the first time,
+we have three-dimensional, time-dependent simulated information about how magnetic reversals can occur.
+The process is not simple, even in our computer model. Fluid motions try to reverse the field on a few
+thousand-year timescale, but the solid, inner core tries to prevent reversals because the field cannot change
+(diffuse) within the inner core nearly as quickly as in the fluid, outer core. Only on rare occasions do the
+thermodynamics, the fluid motions and the magnetic field all evolve in a compatible manner that allows for
+the original field to diffuse completely out of the inner core so the new dipole polarity can diffuse in and
+establish a reversed magnetic field. The stochastic (random) nature of the process probably explains why the
+time between reversals on the Earth varies so much. 7 hours ago  --  Robert Z. Pearlman and SPACE.com 8 hours ago  --  Nidhi Subbaraman and Nature magazine 9 hours ago  --  Jean Chemnick and E&E News 15 hours ago  --  Avi Loeb | 15 hours ago  --  Marla Broadfoot January 25, 2021  --  Chelsea Harvey and E&E News Discover world-changing science. Explore our digital archive back to 1845, including articles by more than 150 Nobel Prize winners. Follow us Scientific american arabic (c) 2021 Scientific American, a Division of Springer Nature America, Inc. All Rights Reserved. Support our award-winning coverage of advances in science & technology. Already a subscriber? Subscribers get more award-winning coverage of advances in science & technology.

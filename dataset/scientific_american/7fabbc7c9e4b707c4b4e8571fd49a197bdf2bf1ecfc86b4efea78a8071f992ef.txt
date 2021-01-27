@@ -1,0 +1,22 @@
+Read Our Latest Issue An experiment confirms that teleportation is possible--at least for photons One group of researchers at the
+University of Innsbruck in Austria published an account of the first experiment to verify quantum teleportation in the December 11 issue of . And another team headed by Francesco De Martini in Rome has submitted similar evidence to for
+publication. Neither group sent a colleague to Katmandu or a car to the moon. Yet what they did prove is still pretty startling. Anton Zeilinger, De
+Martini and their colleagues demonstrated independently that it is possible to transfer the properties of one quantum particle (such as a photon) to
+another--even if the two are at opposite ends of the galaxy. Until recently, physicists had all but ruled out teleportation, in essence because all
+particles behave simultaneously like particles and like waves. The trick was this: they presumed that to produce an exact duplicate of any one
+particle, you would first have to determine both its particlelike properties, such as its position, and its wavelike properties, such as its momentum.
+And yet doing so would violate the Heisenberg uncertainty principle of quantum mechanics. Under that principle, it is impossible to ever measure
+wave and particle properties at the same time. The more you learn about one set of characteristics, the less you can say about the other with any real
+certainty. In 1993, though, an international team of six
+scientists proposed a way to make an end-run around the uncertainty principle. Their solution was based on a theorem of quantum mechanics
+dating to the 1930s called the Einstein-Podolsky-Rosen effect. It states that when two particles come into contact with one another, they can become
+"entangled." In an entangled state, both particles remain part of the same quantum system so that whatever you do to one of them affects the other
+one in a predictable, domino-like fashion. Thus, the group showed how, in principle, entangled particles might serve as "transporters" of sorts. By
+introducing a third "message" particle to one of the entangled particles, one could transfer its properties to the other one, without ever measuring
+those properties. Bennett's ideas were not verified experimentally until the Innsbruck investigators performed their recent . The researchers produced pairs of entangled photons and showed they could transfer the polarization state
+from one photon to another. Teleportation still has one glitch: In the fuzzy realm of quantum mechanics, the result of the transfer is influenced by the receiver's observation
+of it. (As soon as you look at, say, Bones, he will look like something else.) So someone still has to tell the receiver that the transformation has been
+made so that they can correctly interpret what they see. And this sort of communication cannot occur at faster-than-light speeds. Even so, the
+scheme has definite applications in ultrafast quantum computers and in utilizing quantum phenomena to ensure secure data transmission [see
+QUANTUM CRYPTOGRAPHY, Charles H. Bennett, , October 1992]. For now, though, it will be a long time before
+a real Scotty beams up a living Captain Kirk. 6 hours ago  --  Robert Z. Pearlman and SPACE.com 7 hours ago  --  Nidhi Subbaraman and Nature magazine 8 hours ago  --  Jean Chemnick and E&E News 14 hours ago  --  Avi Loeb | 15 hours ago  --  Marla Broadfoot January 25, 2021  --  Chelsea Harvey and E&E News Scientific American Space & Physics is a roundup of the most important stories about the universe and beyond Follow us Scientific american arabic (c) 2021 Scientific American, a Division of Springer Nature America, Inc. All Rights Reserved. Support our award-winning coverage of advances in science & technology. Already a subscriber? Subscribers get more award-winning coverage of advances in science & technology.
